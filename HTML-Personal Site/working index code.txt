@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Raghav's Personal website</title>
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+  <body>
+    <table cellspacing="20px">
+      <tr>
+        <td><img src="Images/Raghav.png" alt="Raghav's Image" height="190px"></td>
+        <td><h1>Raghav Sharma</h1>
+        <p><em><strong>Software Engineer</strong></em></p>
+        <p><em><strong>Programmer Analyst Trainee</strong> <br> Cognizant</em></p>
+        <p>I am Self taught programmer and an aspiring engineer who is curious to learn new skills and
+          technologies related to computer science and engineering. </p></td>
+      </tr>
+    </table>
+    <hr>
+    <h3>Skills</h3>
+    <table>
+      <tr>
+        <td>HTML</td>
+        <td>⭐⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>CSS</td>
+        <td>⭐⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>Javascript</td>
+        <td>⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>c++</td>
+        <td>⭐⭐⭐⭐</td>
+      </tr>
+    </table>
+    <hr>
+    <h3>Work Experiance</h3>
+    <table cellspacing="10px">
+      <th>Position</th>
+      <th>Company</th>
+      <th>Duration</th>
+      <tr>
+        <td>Intern</td>
+        <td>Cognizant Technology Solutions</td>
+        <td>January 2022 - May 2022</td>
+      </tr>
+      <tr>
+        <td>Programmer Analyst Trainee</td>
+        <td>Cognizant Technology Solutions</td>
+        <td>2022 - present</td>
+      </tr>
+    </table>
+    <hr>
+    <h3>Education</h3>
+    <ul>
+      <li><strong>Bachelor's of Technology</strong><br>SRM Institute Of Science and Technology</li>
+    </ul>
+  </body>
+</html>
