@@ -32,6 +32,16 @@ p {
 }
 
 
+/* section */
+.colored-section{
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.white-section{
+  background-color: #fff;
+}
+
 /* navigation-bar */
 
 .navbar {
@@ -57,14 +67,9 @@ p {
 
 /* title section */
 
-#title {
-  background-color: #ff4c68;
-  color: #fff;
-  text-align: left;
-}
-
 #title .container-fluid {              /* apply css to the containerfluid class inside title id dection only. */
   padding: 3% 15% 7%;
+  text-align: left;
 }
 
 
@@ -88,7 +93,6 @@ p {
 /* features-section */
 
 #features {
-  background-color: #fff;
   position: relative;
 }
 
@@ -107,7 +111,6 @@ p {
 
 #testimonials {
   background-color: #ef8172;
-  color: #fff;
 }
 
 
@@ -166,8 +169,6 @@ p {
 /* cta section */
 
 #cta {
-  background-color: #ff4c68;
-  color: #fff;
   font-family: 'Montserrat', sans-serif;
   font-weight: 900;
   line-height: 1.5;
